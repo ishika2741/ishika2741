@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!! I'm Ishika 👋
 
 
 - 🔭 I’m currently working on my course.
@@ -8,6 +8,10 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ishika2741/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Happy!!!
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/ishika-gupta-264b171a4/)
+
 
 ![Technical Skills](
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
