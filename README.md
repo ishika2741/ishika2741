@@ -10,12 +10,18 @@
 - ⚡ Fun fact: I am Happy!!!
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/ishika-gupta-264b171a4/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ishika-gupta-264b171a4/)
+<br />
 
-
-![Technical Skills](
+### Languages and Tools:
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">)
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+
+<br />
+<br />
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ishika2741&count_private=true&show_icons=true&theme=radical)
 
