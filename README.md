@@ -1,6 +1,10 @@
 ### Hello World!! I'm Ishika 👋
 
 
+<img align="right" alt="GIF" src="https://github.com/ishika2741/ishika2741/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+
 - 🔭 I’m currently working on my course.
 - 🌱 I’m currently learning frontend development.
 - 👯 I’m looking to collaborate on open souce.
