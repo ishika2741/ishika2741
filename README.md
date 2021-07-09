@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I am Happy!!!
 
 
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ishika2741&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika2741&show_icons=true&theme=radical)
