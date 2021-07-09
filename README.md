@@ -11,3 +11,5 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ishika2741&count_private=true&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika2741&show_icons=true&theme=radical)
