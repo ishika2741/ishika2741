@@ -9,3 +9,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Happy!!!
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ishika2741&count_private=true&show_icons=true&theme=radical)
