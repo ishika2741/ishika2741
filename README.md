@@ -1,7 +1,7 @@
 ### Hello World!! I'm Ishika 👋
 
 
-<img align="right" alt="GIF" src="https://github.com/ishika2741/ishika2741/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ishika2741/ishika2741/blob/main/hello.gif?raw=true" width="500" height="320" />
 
 
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning frontend development.
 - 👯 I’m looking to collaborate on open souce.
 - 💬 Ask me about soft skills.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/ishika2741/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/ishika2741/) [Linkedin](https://www.linkedin.com/in/ishika-gupta-264b171a4/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Happy!!!
 
