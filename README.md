@@ -1,7 +1,7 @@
 ### Hello World!! I'm Ishika 👋
 
 
-<img align="right" alt="GIF" src="https://github.com/ishika2741/ishika2741/blob/main/hello.gif?raw=true" width="500" height="320" />
+
 
 
 
