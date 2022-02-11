@@ -38,6 +38,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika2741&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=ishika2741)
 
 
